@@ -1,0 +1,4 @@
+after creating virtual environment
+
+pip list
+pip install jupyter
